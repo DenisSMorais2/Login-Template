@@ -57,3 +57,4 @@ Deve conter:
 `Mínimo: 8 caracteres`
 `Máximo: 16 caracteres`
 
+![register](https://github.com/user-attachments/assets/8d374f00-280f-48a7-98b9-a90f924cab41)
